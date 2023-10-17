@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAntiCorruptionLayer", "ConsoleAppAntiCorruptionLayer.csproj", "{E9158F87-0CA7-42DC-9E35-E017F1CAAC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9158F87-0CA7-42DC-9E35-E017F1CAAC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9158F87-0CA7-42DC-9E35-E017F1CAAC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9158F87-0CA7-42DC-9E35-E017F1CAAC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9158F87-0CA7-42DC-9E35-E017F1CAAC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D409E9-895D-4107-9A1C-9E389A5A86C9}
+	EndGlobalSection
+EndGlobal
