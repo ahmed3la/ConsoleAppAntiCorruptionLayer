@@ -27,10 +27,3 @@ This example demonstrates how to implement an Anti-Corruption Layer in C# to fac
 2. Implement the Anti-Corruption Layer to translate data and method calls between modules with differing interfaces.
 3. Use the Anti-Corruption Layer in the main program to facilitate communication between modules.
 
-## Example
-
-```csharp
-// Code examples can be found in the source files:
-// - BillingModule
-// - AccountingModule
-// - AntiCorruptionLayer
